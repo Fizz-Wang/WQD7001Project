@@ -1,0 +1,4 @@
+([('ModelPredict',
+   '/Users/fizz_n_w/Desktop/UM '
+   'Study/WQD7001/project/WQD7001/PredictApp/dist/ModelPredict',
+   'EXECUTABLE')],)
